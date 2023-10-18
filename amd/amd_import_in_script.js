@@ -5,7 +5,7 @@
  * @NAMDConfig ./package.json
  */
 
-define(['./counter','moment'], function (
+define(['counter','moment'], function (
 	
   counter,
   moment
