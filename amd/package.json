@@ -1,6 +1,7 @@
 {
 
 "path":{
-"moment":"./lib/moment.js"
+"moment":"./lib/moment.js",
+"counter":"./lib/counter.js"
 }
 }
